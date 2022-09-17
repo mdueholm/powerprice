@@ -40,13 +40,13 @@ Find out how much power your HomeOffice uses
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-## Setup
+<!-- ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-## Usage
+<!-- ## Usage
 How does one go about using it?
 Provide various use cases and code examples here.
 
@@ -54,8 +54,8 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-<!--      -->
+Project is: Just starting up
+<!--   _ very much in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.   -->
 
 ## Room for Improvement
 Room for improvement:
@@ -68,7 +68,7 @@ To do:
 
 ## Acknowledgements
 - This project was inspired by my ever increasing electrical bill
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [not much yet](https://www.notmuchyet.com).
 - Many thanks to everybody who wants to hear about all my projects
 
 
