@@ -26,8 +26,8 @@ Find out how much power your HomeOffice uses
 
 ## Technologies Used
 - Particle Argon IoT developer board - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Sensor
+- Display
 
 
 ## Features
