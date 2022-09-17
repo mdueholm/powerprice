@@ -2,7 +2,7 @@
 Find out how much power your HomeOffice uses
 <!-- > Live demo [_here_](https://www.example.com). --><!-- If you have the project hosted somewhere, include the link here. -->
 
-## Table of Contents
+<!-- ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
