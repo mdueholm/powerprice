@@ -70,8 +70,7 @@ To do:
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
+Created by [@mdueholm](https://www.mortendueholm.dk/)
 
 <!-- Optional -->
 <!-- ## License -->
