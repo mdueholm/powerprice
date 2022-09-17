@@ -16,7 +16,7 @@ Find out how much power your HomeOffice uses
 <!-- * [License](#license) -->
 
 
-## General Information
+<!-- ## General Information
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
