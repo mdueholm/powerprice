@@ -70,7 +70,7 @@ To do:
 
 
 ## Contact
-Created by [@mdueholm](https://www.mortendueholm.dk/)
+Created by [@mdueholm](target="_blank" https://www.mortendueholm.dk/)
 
 <!-- Optional -->
 <!-- ## License -->
