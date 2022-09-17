@@ -1,5 +1,5 @@
 # PowerPrice
-Find out how much power your HomeOffice uses
+Find out how much power your HomeOffice uses and what it will cost you
 <!-- > Live demo [_here_](https://www.example.com). --><!-- If you have the project hosted somewhere, include the link here. -->
 
 <!-- ## Table of Contents
