@@ -23,18 +23,15 @@ Find out how much power your HomeOffice uses
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Key features
+- Measure the current power usage of Your HomeOffice setup
+- Calculate the total power used in kWh since last manual reset
+- Calculate the total power used this day / week / month
 
 ## Technologies Used
 - Particle Argon IoT developer board - version 1.0
 - Sensor
 - Display
-
-
-## Features
-- Measure the current power usage of Your HomeOffice setup
-- Calculate the total power used in kWh since last manual reset
-- Calculate the total power used this day / week / month
-
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
