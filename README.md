@@ -1,5 +1,5 @@
 # PowerPrice
-Find out how much power your HomeOffice uses and what it will cost you
+Find out how much power your homeoffice uses and what it will cost you
 <!-- > Live demo [_here_](https://www.example.com). --><!-- If you have the project hosted somewhere, include the link here. -->
 
 <!-- ## Table of Contents
@@ -24,14 +24,15 @@ Find out how much power your HomeOffice uses and what it will cost you
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Key features
-- Measure the current power usage of Your HomeOffice setup
-- Calculate the total power used in kWh since last manual reset
-- Calculate the total power used this day / week / month
+- Measure and display how much power your homeoffice setup currently uses
+- Calculate and display the total power used in kWh this day / week / month / since last manual reset
+- Display current electricity-price in DKK (webhook)
+- Calculate and display the total cost in DKK this day / week / month / since last manual reset
 
 ## Technologies Used
 - Particle Argon IoT developer board - version 1.0
-- Sensor
-- Display
+- SCT013-015 15A/1V non-invasive split core current sensor
+- Display (OLED display on I2C or SPI bus)
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -54,19 +55,15 @@ Provide various use cases and code examples here.
 Project is: Just starting up
 <!--   _ very much in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.   -->
 
-## Room for Improvement
-Room for improvement:
-- 3D-print a nice case
+## Room for Improvement / Nice To's
+- Upload data to the cloud and display it in a browser / web-app
+- Define working hours to keep work-use and private-use seperate
+- 3D-print a case (or maybe just use an old cigarbox)
 
-To do:
-- Too many things
-- to be listed here
-
-
-## Acknowledgements
+<!-- ## Acknowledgements
 - This project was inspired by my ever increasing electrical bill
 - This project was based on [not much yet](https://www.notmuchyet.com).
-- Many thanks to everybody who wants to hear about all my projects
+- Many thanks to everybody who wants to hear about all my projects -->
 
 
 ## Contact
