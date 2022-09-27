@@ -33,9 +33,8 @@ Find out how much power your homeoffice uses and what it will cost you
 - SCT013-015 15A/1V non-invasive split core current sensor
 - Display (OLED display on I2C or SPI bus)
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+<!-- ## Screenshots
+![Example screenshot](./img/screenshot.png) -->
 
 <!-- ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
