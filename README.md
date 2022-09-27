@@ -25,9 +25,8 @@ Find out how much power your homeoffice uses and what it will cost you
 
 ## Key features
 - Measure and display how much power your homeoffice setup currently uses
-- Calculate and display the total power used in kWh this day / week / month / since last manual reset
 - Display current electricity-price in DKK (webhook)
-- Calculate and display the total cost in DKK this day / week / month / since last manual reset
+- Calculate and display the cost in DKK/hour using measured power consumption and electricity-price (1 minute average)
 
 ## Technologies Used
 - Particle Argon IoT developer board - version 1.0
@@ -56,7 +55,9 @@ Project is: Just starting up
 <!--   _ very much in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.   -->
 
 ## Room for Improvement / Nice To's
-- Upload data to the cloud and display it in a browser / web-app
+- Calculate and display the total power used in kWh this day / week / month / since last manual reset
+- Calculate and display the total cost in DKK this day / week / month / since last manual reset
+- Upload data to the cloud and display it in a browser / app
 - Define working hours to keep work-use and private-use seperate
 - 3D-print a case (or maybe just use an old cigarbox)
 
